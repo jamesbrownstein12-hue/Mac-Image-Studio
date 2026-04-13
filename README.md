@@ -27,5 +27,9 @@ Workflows so far:
 
 12: App Signer: You can choose an .app file, and you can either sign the app with the xattr quarantine, or codesign the app with codesign.  
 
+13: ISO Builder: Turns many kinds of files into ISO's for many different use purposes.  
+
+14: IPSW Extractor: Can extract an IPSW for Mac's, iPhones, iPads, and iPod touches into any folder to see all the contents.  
+
 Hope you enjoy and more workflows coming in the future.
 
